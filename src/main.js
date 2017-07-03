@@ -1,0 +1,8 @@
+import add from './add'
+
+const a = 4
+const b = 5
+
+const c = add(a, b)
+
+console.log(c)
