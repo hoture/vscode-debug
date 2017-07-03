@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "rm -rf .compiled && babel src --out-dir .compiled --source-maps"
+    "compile": "rm -rf .compiled && babel src --out-dir .compiled --source-maps"
   },
   "keywords": [],
   "author": "",
